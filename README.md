@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @localhousee
 - 👀 I’m interested in Web Development especially on Backend
-- 🌱 I’m currently learning PHP with Laravel Framework
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me : localhousee@outlook.com
